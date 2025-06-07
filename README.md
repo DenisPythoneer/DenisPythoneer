@@ -16,7 +16,7 @@
 
 🛠️ **Tech Stack**
 `python` `javascript` `html` `css`
-`fastapi` `postqresql` `sqlite`
+`aiogram` `fastapi` `postqresql` `sqlite`
 `linux` `windows`
 
 🔭 **Featured Projects**
@@ -31,5 +31,3 @@
 
 🤝 **Connect With Me**
 - [GitHub](https://github.com/DenisPythoneer)
-- [LinkedIn](https://linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
