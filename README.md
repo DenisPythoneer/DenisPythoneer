@@ -1,5 +1,3 @@
-<img src="https://github.com/johndoe.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Денис
 ### ♠️ Изучаю языки программирования Python/JavaScript!
 
@@ -17,9 +15,9 @@
 🍒 Спасибо за внимание!
 
 🛠️ **Tech Stack**
-- Intermediate: `python` `sqlite` `ubuntu`
-- Beginner: `javascript` `postqresql` `fastapi`
-- Advanced: `html` `css` `windows`
+`python` `javascript` `html` `css`
+`fastapi` `postqresql` `sqlite`
+`linux` `windows`
 
 🔭 **Featured Projects**
 - [Project Alpha](https://github.com/johndoe/project-alpha) - A revolutionary app built with React and Node.js
