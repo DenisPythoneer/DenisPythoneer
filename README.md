@@ -18,6 +18,7 @@
 `python` `javascript` `html` `css`
 `aiogram` `fastapi` `postqresql` `sqlite`
 `linux` `windows`
+`visual studio code` `pycharm`
 
 🔭 **Featured Projects**
 - [Project Alpha](https://github.com/johndoe/project-alpha) - A revolutionary app built with React and Node.js
