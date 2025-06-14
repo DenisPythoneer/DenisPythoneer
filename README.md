@@ -20,10 +20,6 @@
 `linux` `windows`
 `visual studio code` `pycharm`
 
-🔭 **Featured Projects**
-- [Project Alpha](https://github.com/johndoe/project-alpha) - A revolutionary app built with React and Node.js
-- [Project Beta](https://github.com/johndoe/project-beta) - High-performance backend system using Go
-
 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DenisPythoneer&show_icons=true&theme=dark" alt="GitHub Stats" />
